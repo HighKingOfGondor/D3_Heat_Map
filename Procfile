@@ -1,1 +1,1 @@
-web: node heatMap.js
+web: node index.html
